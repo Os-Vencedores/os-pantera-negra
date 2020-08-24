@@ -15,7 +15,7 @@ namespace Site_Toters_Sistema.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " oi";
+            ViewBag.Message = "";
 
             return View();
         }
